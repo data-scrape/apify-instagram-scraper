@@ -33,54 +33,6 @@
 
 ---
 
-
-## 📘 Table of Contents
-
-- [Influencer Discovery](#influencer-discovery)
-- [Brand Monitoring](#brand-monitoring)
-- [Competitor Analysis](#competitor-analysis)
-- [AI Applications](#ai-applications)
-- [Related Repositories](#related-repositories)
-- [Support This Project](#-support-this-project)
-
----
-
-
-<div align="center">
-
-[![GitHub stars](https://img.shields.io/github/stars/data-scrape/apify-instagram-scraper?style=social)](https://github.com/data-scrape/apify-instagram-scraper)
-[![GitHub forks](https://img.shields.io/github/forks/data-scrape/apify-instagram-scraper?style=social)](https://github.com/data-scrape/apify-instagram-scraper/fork)
-[![GitHub issues](https://img.shields.io/github/issues/data-scrape/apify-instagram-scraper)](https://github.com/data-scrape/apify-instagram-scraper/issues)
-[![GitHub license](https://img.shields.io/github/license/data-scrape/apify-instagram-scraper)](https://github.com/data-scrape/apify-instagram-scraper/blob/main/LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)](https://www.python.org/)
-
-</div>
-
-
-> Apify Instagram scraper alternative - free Python Instagram scraper
-
-
-<!-- SEO keywords: apify instagram scraper, Apify Instagram Scraper, apify instagram scraper python, apify instagram scraper github, best apify instagram scraper -->
-
-
-<div align="center">
-
-[![CoreClaw](https://img.shields.io/badge/CoreClaw-Data_Scraping_Platform-7B2FF7?style=for-the-badge&labelColor=5B21B6)](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
-
-**The All-in-One Web Scraping & Data Platform** — Scrape Google Maps, Instagram, Amazon, LinkedIn, TikTok, YouTube, and 50+ platforms via ready-to-use REST APIs.
-
-✅ No browser automation · ✅ No proxy management · ✅ Free credits for new users
-
-⬇️ [Get Started with CoreClaw Free](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
-
-</div>
-
----
-
-
----
-
-
 > Looking for an alternative to **Apify Instagram Scraper**?
 
 This repository compares Apify Instagram Scraper with modern Instagram data APIs to help developers, agencies, and AI companies choose the right solution.
